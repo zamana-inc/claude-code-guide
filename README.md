@@ -2,6 +2,18 @@
 
 A collection of practical tips for getting more out of Claude Code, compiled for the team.
 
+## 📽️ Viewing the Presentation
+
+There's an interactive slide deck in the `presentation/` directory built with React + Vite.
+
+```bash
+cd presentation
+npm install
+npm run dev
+```
+
+Then open the URL shown in your terminal (usually http://localhost:5173).
+
 ---
 
 ## Tip 1: Shell Aliases for Faster Launches
